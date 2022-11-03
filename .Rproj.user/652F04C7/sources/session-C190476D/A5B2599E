@@ -1,0 +1,32 @@
+{
+    "id": "A5B2599E",
+    "path": "C:/Users/msm19/Desktop/Data Visualisation/content/post/2020-12-01-r-rmarkdown/index.Rmd",
+    "project_path": "content/post/2020-12-01-r-rmarkdown/index.Rmd",
+    "type": "r_markdown",
+    "hash": "321560156",
+    "contents": "",
+    "dirty": false,
+    "created": 1667485009361.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,3",
+        "scrollLine": "10",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "166:0",
+        "last_setup_crc32": "C190476D86caa7c1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1667486636,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1667487040116,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,25 @@
+---
+title: "Ethnic distribution in Australia"
+author: "Shuming Ma"
+date: "2022-11-03"
+categories: R
+tags: R Markdown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+Australia covers an area of 7.692 million square kilometers and has a population of only 25.69 million. Of the 25.69 million people, 37.13 per cent identified themselves as Australians (of which 2.7 per cent were of original Aboriginal descent); 31.65% of Australians of English origin; Irish-Australian accounted for 9.08%; Scottish Australians make up 7.56%; Italian-Australian accounted for 4.29%; German-Australian 4.09%; 3.37% are Chinese; 1.84% are of Greek origin.
+
+
+```{r pie, fig.cap='A pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(134, 114, 33, 27, 15, 15, 12, 7, 3),
+  c('Australians', 'Australians of English origin', 'Irish-Australian', 'Scottish Australians', 'Italian-Australian', 'German-Australian', 'Chinese', 'Greek origin', 'Others' ),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
